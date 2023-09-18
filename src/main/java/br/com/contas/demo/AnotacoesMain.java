@@ -10,6 +10,5 @@ public class AnotacoesMain {
 	public static void main(String[] args) {
 		SpringApplication.run(AnotacoesMain.class, args);
 	}
-		//kajsdblaisjndiahsdjnlaksdn
 
 }
